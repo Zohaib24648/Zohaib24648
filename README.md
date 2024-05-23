@@ -1,6 +1,3 @@
-Based on the current details and the additional information from your resume, here is an updated LinkedIn profile for you:
-
----
 
 # Zohaib Ali Mughal
 
