@@ -1,58 +1,57 @@
 # Zohaib Ali Mughal
 
-## 🎓 Academic Qualifications
-- **BSCS** - Institute of Business Administration, Karachi (Expected 2025)
-- **Intermediate** - Sachal Sarmast Degree College, Ranipur (2020)
-- **Matric** - Mehran Public School, Setharja (2018)
+## 🎓 Education
+- **BSc in Computer Science** - Institute of Business Administration (IBA), Karachi (Batch of 2025)
+  - **Specializations:** Machine Learning, Web Development, Mobile App Development
 
 ## 💼 Professional Experience
-- **Vision Architect (London, Remote)** - Flutter App Developer Intern (July 2024 - Present)
-  - Engaged in a learning phase, focusing on app development with Flutter.
-  
-- **CodexCue (Remote)** - Flutter App Developer Intern (June 2024 - July 2024)
-  - Developed cross-platform mobile applications using Flutter, focusing on API integration, state management, and UI/UX design.
-  - Enhanced skills in data persistence, testing, debugging, and version control using Git and GitHub.
 
-- **Ezitech Institute (Remote)** - Full Stack Developer Intern (May 2024 - June 2024)
-  - Utilized the MERN stack (MongoDB, Express.js, React.js, Node.js) for full-stack development, employing JWT and bcrypt for secure authentication, Redux for state management, and React Router for navigation.
-  - Conducted thorough testing and debugging to enhance application reliability and performance.
+**Slidey LLC** | *Software Engineer* (Nov 2024 - Present)
+*Progressed through backend and full-stack engineering roles across three distinct SaaS platforms.*
 
-- **IBA Center for Entrepreneurial Development** - Social Internship (Jul 2023 - Sep 2023)
-  - Collaborated with EDP students to collect and analyze event coordination data.
-  - Enhanced IBA CED alumni contact database for better accessibility.
-  - Increased CED and IBA EDP's social media presence by creating content strategies and growing followers by over 2,500.
+- **Hyss** (Jan 2026 - Present)
+  - **Stack:** Next.js, Fastify, tRPC, Prisma, PostgreSQL, Supabase, Stripe, Capacitor
+  - Spearheading development of a comprehensive staffing and coordination platform built for the AV and live events industry.
+  - Working within a type-safe Turborepo monorepo, ensuring schema synchronization across Prisma, Zod, and tRPC APIs to serve Next.js and Capacitor clients.
+  - Engineered B2B financial infrastructure via Stripe Connect, supporting hybrid usage billing, custom PDF invoicing, and 1099-style reporting.
+  - Implemented production-grade observability and security, including Supabase Realtime UI invalidation, strict RBAC, and unified monitoring via Sentry.
 
-## 📚 Academic Experience
-- **NTHP Scholar** - Institute of Business Administration (IBA) (2023)
-  - Selected as one of the top 33 students out of 7,290 nationwide for the National Talent Hunt Program (NTHP) at IBA Karachi after a competitive selection process.
+- **Sportefy** (March 2025 - Dec 2025)
+  - **Stack:** NestJS, Prisma ORM, PostgreSQL, Flutter, Next.js, AWS S3
+  - Collaborated with cross-functional teams to build and deliver a multi-tenant facility booking SaaS platform.
+  - Implemented backend features serving RESTful APIs with <200ms p99 latency, supporting real-time booking processing 1000+ concurrent transactions.
+  - Integrated granular RBAC permissions, row-level security policies, and OAuth2.0 SSO across Flutter mobile apps and Next.js admin dashboards.
+
+- **A-Safe Digital** (Nov 2024 - Feb 2025)
+  - **Stack:** TypeScript, NATS JetStream, Node.js, React, PostgreSQL
+  - Maintained and developed features for an event-driven microservices ecosystem supporting 100k+ concurrent users via TypeScript and NATS JetStream.
+  - Integrated mission-critical applications (CRM, Quoting Engine) through NATS pub/sub messaging, ensuring <100ms inter-service latency.
+  - Adhered to strict clean architecture principles and type-safe error boundaries to mitigate runtime errors.
+  - Authored 500+ unit and integration tests covering 70+ business use-cases, maintaining 95% code coverage.
+
+**Institute of Business Administration (IBA)** | *Teaching Assistant - Mobile Application Development*
+- Mentored 100+ students across 2 semesters in Flutter development, conducting hands-on workshops and designing assessments that improved class averages by 30%.
 
 ## 💻 Major Projects
-- **Faculty Reviews** - A cross-platform flutter-based application for students to get reviews of teachers and courses from their seniors. [GitHub Link](https://github.com/Zohaib24648/faculty_review/tree/master)
-- **Web App** - Developed a Hospital Management System to streamline healthcare operations and patient management. (React, NodeJS, Express, Oracle SQL) [GitHub Link](https://github.com/Zohaib24648/HMS)
-- **Desktop Application** - Developed a Rent Management System utilizing object-oriented programming principles. (Python) [GitHub Link](https://github.com/Zohaib24648/RMS)
-- **AI Chess Bot** - Developed a Python-based AI Chess Bot with a GUI, employing the Min-Max algorithm and Alpha-Beta Pruning to achieve a competitive 1600 rating. [GitHub Link](https://github.com/Zohaib24648/ChessBot)
-- **Report** - Analyzed and proposed strategies for NAYAPAY to integrate digital ethics, ensuring ethical standards and economic growth.
+- **RiskSense - AI-Powered Loan Default Prediction (Final Year Project):** Engineered a production-grade MLOps pipeline using ZenML orchestration. Implemented an ensemble ML architecture achieving a 92% AUC-ROC score, and built a RESTful Flask API serving real-time predictions at <100ms latency.
+- **Faculty Reviews:** Developed a cross-platform solution (Flutter, React, Node.js, MongoDB) serving 5000+ active users with real-time course reviews, sentiment analysis, and a recommendation engine. [GitHub Link](https://github.com/Zohaib24648/faculty_review/tree/master)
+- **AI Chess Engine:** Developed a Python-based AI achieving a 1600 ELO rating using an optimized Min-Max algorithm with iterative deepening, transposition tables, and alpha-beta pruning. [GitHub Link](https://github.com/Zohaib24648/ChessBot)
 
-## 🏆 Competitions
-- **Kaggle Competitions (IBA CS Students):**
-  - **2nd Place (out of 150)** - Developed a Machine Learning Model to predict patient survival based on health indicators with 89% accuracy.  
-  - **6th Place (out of 150)** - Developed a Machine Learning Model to predict mortgage rates for houses based on different indicators with a deviation of ±2%.
+## 🏆 Academic Achievements & Competitions
+- **Kaggle Competitions:** - **2nd Place (out of 150)** - Deep learning survival prediction model (89% accuracy).  
+  - **6th Place (out of 150)** - Neural network mortgage rate predictor.
+- **Hackathons:** Trading Bazaar Runner-up (algorithmic trading strategies) and Ignite Winner (innovative IoT rapid prototyping under a 2-hour constraint).
+- **NTHP Scholar:** Selected in the top 33 from 7,290 candidates nationwide for the National Talent Hunt Program.
 
-## 📖 Special Courses
-- **Udemy Courses:** The Complete Flutter Development Bootcamp with Dart, Flutter Bootcamp Zero to Mastery, The Complete 2023 Web Development Bootcamp, Agile Crash Course: Agile Project Management.
-- **University Courses:** Application development for mobile devices, Web-based application development, Database Systems and Management, Data Structures, Introduction to Data Mining, Introduction to Machine Learning, Numerical Analysis, Statistical Inference.
-
-## 🛠 Skills
-- **Programming Languages:** Dart, JavaScript, Python, SQL, Java, C
-- **Frameworks:** Flutter, React, Node.js, Express
-- **Tools & Software:** Android Studio, GitHub, Visual Studio Code, Jupyter Notebooks, IntelliJ IDEA
-- **Machine Learning & Data Science:** Supervised and Unsupervised Learning, Neural Networks, LightGBM, CatBoost, XGBoost, Decision Trees, k-Nearest Neighbors (kNN), Naive Bayes, Ensemble Methods (Bagging, Boosting, AdaBoost), Principal Component Analysis (PCA), Linear Regression, Logistic Regression, Regression Trees, Gradient Boosting, Agglomerative Clustering, Partitional Clustering, DBSCAN.
-- **Languages:** English (Advanced), Urdu (Native), Sindhi (Native), Punjabi (Advanced).
-
-## 🎯 Interests and Extracurricular Activities
-- Cricket, Chess, Cryptocurrency, Trading, Politics, Video Games, Video Editing.
+## 🛠 Technical Skills
+- **Languages:** TypeScript, JavaScript, Python, Dart, SQL, GraphQL
+- **Frontend:** Next.js, React, Flutter, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, NestJS, Fastify, Express, tRPC, NATS JetStream
+- **Databases & Tools:** PostgreSQL, MongoDB, Prisma ORM, Supabase, Redis
+- **ML & MLOps:** Scikit-learn, XGBoost, MLflow, ZenML, Pandas
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Vercel, GitHub Actions (CI/CD), Stripe Connect
 
 ## 📱 Contact Me
-- LinkedIn: [Zohaib Ali Mughal](https://www.linkedin.com/in/zohaibmughal24648)
-- Email: [z.mughal.24648@khi.iba.edu.pk](mailto:z.mughal.24648@khi.iba.edu.pk)
-- GitHub: [Zohaib24648](https://github.com/Zohaib24648)
+- **LinkedIn:** [Zohaib Ali Mughal](https://linkedin.com/in/zohaibmughal24648)
+- **Email:** [z.mughal.24648@gmail.com](mailto:z.mughal.24648@gmail.com)
+- **GitHub:** [Zohaib24648](https://github.com/Zohaib24648)
