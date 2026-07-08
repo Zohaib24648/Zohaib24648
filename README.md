@@ -2,13 +2,15 @@
 
 **Full-stack engineer — TypeScript & Flutter.** I build production platforms end to end: schema design → API → web & mobile clients → CI/CD → store release.
 
-### 🌐 Portfolio → **[zohaibmughal.dev](https://zohaibmughal.dev)**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-zohaibmughal.dev-9D5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zohaibmughal.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaibmughal24648-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaibmughal24648)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/zohaibmughal)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/zohaibmughal151)
-[![Email](https://img.shields.io/badge/Email-z.mughal.24648@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.mughal.24648@gmail.com)
+<p>
+  <a href="https://zohaibmughal.dev"><img src="https://zohaibmughal.dev/assets/img/favicon.svg" width="24" align="top" alt=""/>&nbsp; <b>Portfolio — zohaibmughal.dev</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/zohaibmughal24648"><img src="https://zohaibmughal.dev/assets/img/icons/linkedin.svg" width="24" align="top" alt=""/>&nbsp; <b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:z.mughal.24648@gmail.com"><img src="https://zohaibmughal.dev/assets/img/icons/gmail.svg" width="24" align="top" alt=""/>&nbsp; <b>z.mughal.24648@gmail.com</b></a>
+</p>
+<p>
+  <a href="https://www.upwork.com/freelancers/zohaibmughal"><img src="https://zohaibmughal.dev/assets/img/icons/upwork.svg" width="24" align="top" alt=""/>&nbsp; <b>Hire me on Upwork</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/zohaibmughal151"><img src="https://zohaibmughal.dev/assets/img/icons/fiverr.svg" width="24" align="top" alt=""/>&nbsp; <b>Hire me on Fiverr</b></a>
+</p>
 
 ---
 
