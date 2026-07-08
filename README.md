@@ -1,57 +1,57 @@
 # Zohaib Ali Mughal
 
-## 🎓 Education
-- **BSc in Computer Science** - Institute of Business Administration (IBA), Karachi (Batch of 2025)
-  - **Specializations:** Machine Learning, Web Development, Mobile App Development
+**Full-stack engineer — TypeScript & Flutter.** I build production platforms end to end: schema design → API → web & mobile clients → CI/CD → store release.
 
-## 💼 Professional Experience
+### 🌐 Portfolio → **[zohaibmughal.dev](https://zohaibmughal.dev)**
 
-**Slidey LLC** | *Software Engineer* (Nov 2024 - Present)
-*Progressed through backend and full-stack engineering roles across three distinct SaaS platforms.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-zohaibmughal.dev-9D5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zohaibmughal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaibmughal24648-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaibmughal24648)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/zohaibmughal)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/zohaibmughal151)
+[![Email](https://img.shields.io/badge/Email-z.mughal.24648@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.mughal.24648@gmail.com)
 
-- **Hyss** (Jan 2026 - Present)
-  - **Stack:** Next.js, Fastify, tRPC, Prisma, PostgreSQL, Supabase, Stripe, Capacitor
-  - Spearheading development of a comprehensive staffing and coordination platform built for the AV and live events industry.
-  - Working within a type-safe Turborepo monorepo, ensuring schema synchronization across Prisma, Zod, and tRPC APIs to serve Next.js and Capacitor clients.
-  - Engineered B2B financial infrastructure via Stripe Connect, supporting hybrid usage billing, custom PDF invoicing, and 1099-style reporting.
-  - Implemented production-grade observability and security, including Supabase Realtime UI invalidation, strict RBAC, and unified monitoring via Sentry.
+---
 
-- **Sportefy** (March 2025 - Dec 2025)
-  - **Stack:** NestJS, Prisma ORM, PostgreSQL, Flutter, Next.js, AWS S3
-  - Collaborated with cross-functional teams to build and deliver a multi-tenant facility booking SaaS platform.
-  - Implemented backend features serving RESTful APIs with <200ms p99 latency, supporting real-time booking processing 1000+ concurrent transactions.
-  - Integrated granular RBAC permissions, row-level security policies, and OAuth2.0 SSO across Flutter mobile apps and Next.js admin dashboards.
+## 🔭 Now
 
-- **A-Safe Digital** (Nov 2024 - Feb 2025)
-  - **Stack:** TypeScript, NATS JetStream, Node.js, React, PostgreSQL
-  - Maintained and developed features for an event-driven microservices ecosystem supporting 100k+ concurrent users via TypeScript and NATS JetStream.
-  - Integrated mission-critical applications (CRM, Quoting Engine) through NATS pub/sub messaging, ensuring <100ms inter-service latency.
-  - Adhered to strict clean architecture principles and type-safe error boundaries to mitigate runtime errors.
-  - Authored 500+ unit and integration tests covering 70+ business use-cases, maintaining 95% code coverage.
+Sole architect of **ETG** — an enforcement-first field-service operating system for an Australian electrical, security, AV & telecom group: one audited decision engine behind dispatch, workforce, assets, procurement and dual-sided billing. Also on retainer for **Hyss** and **Sportefy**.
 
-**Institute of Business Administration (IBA)** | *Teaching Assistant - Mobile Application Development*
-- Mentored 100+ students across 2 semesters in Flutter development, conducting hands-on workshops and designing assessments that improved class averages by 30%.
+## 🚀 Featured Work
 
-## 💻 Major Projects
-- **RiskSense - AI-Powered Loan Default Prediction (Final Year Project):** Engineered a production-grade MLOps pipeline using ZenML orchestration. Implemented an ensemble ML architecture achieving a 92% AUC-ROC score, and built a RESTful Flask API serving real-time predictions at <100ms latency.
-- **Faculty Reviews:** Developed a cross-platform solution (Flutter, React, Node.js, MongoDB) serving 5000+ active users with real-time course reviews, sentiment analysis, and a recommendation engine. [GitHub Link](https://github.com/Zohaib24648/faculty_review/tree/master)
-- **AI Chess Engine:** Developed a Python-based AI achieving a 1600 ELO rating using an optimized Min-Max algorithm with iterative deepening, transposition tables, and alpha-beta pruning. [GitHub Link](https://github.com/Zohaib24648/ChessBot)
+| Platform | What it is | Case study |
+|---|---|---|
+| **Hyss** | B2B live-event staffing marketplace — web, iOS & Android from one codebase; 93 Prisma models, ~340 tRPC procedures, Stripe Connect payouts | [zohaibmughal.dev/work/hyss](https://zohaibmughal.dev/work/hyss/) |
+| **ETG** | Enforcement-first field-service OS — 106+ models, 400+ tRPC procedures, scored two-hop bank reconciliation, 1,500+ automated tests | [zohaibmughal.dev/work/etg](https://zohaibmughal.dev/work/etg/) |
+| **Sportefy** | Sports venue booking & matchmaking — Flutter app live on the App Store & Play Store, versioned /v1 NestJS API, zero breaking releases | [zohaibmughal.dev/work/sportefy](https://zohaibmughal.dev/work/sportefy/) |
+| **Conek (A-SAFE)** | Quote-to-cash sales platform on event-driven microservices — <100ms inter-service latency, 500+ tests at 95% coverage | [zohaibmughal.dev/work/conek](https://zohaibmughal.dev/work/conek/) |
+| **Plexor** | Multi-camera computer-vision loss prevention for retail — 100+ stores, ~700ms realtime inference, 37+ detection models | [zohaibmughal.dev/work/plexor](https://zohaibmughal.dev/work/plexor/) |
 
-## 🏆 Academic Achievements & Competitions
-- **Kaggle Competitions:** - **2nd Place (out of 150)** - Deep learning survival prediction model (89% accuracy).  
-  - **6th Place (out of 150)** - Neural network mortgage rate predictor.
-- **Hackathons:** Trading Bazaar Runner-up (algorithmic trading strategies) and Ignite Winner (innovative IoT rapid prototyping under a 2-hour constraint).
-- **NTHP Scholar:** Selected in the top 33 from 7,290 candidates nationwide for the National Talent Hunt Program.
+## 🛠 Stack
 
-## 🛠 Technical Skills
-- **Languages:** TypeScript, JavaScript, Python, Dart, SQL, GraphQL
-- **Frontend:** Next.js, React, Flutter, Tailwind CSS, Framer Motion
-- **Backend:** Node.js, NestJS, Fastify, Express, tRPC, NATS JetStream
-- **Databases & Tools:** PostgreSQL, MongoDB, Prisma ORM, Supabase, Redis
-- **ML & MLOps:** Scikit-learn, XGBoost, MLflow, ZenML, Pandas
-- **Cloud & DevOps:** AWS (EC2, S3), Docker, Vercel, GitHub Actions (CI/CD), Stripe Connect
+- **Languages:** TypeScript, JavaScript, Dart, SQL, Python
+- **Frontend:** Next.js 16, React 19, Tailwind CSS, TanStack Query, Radix / shadcn UI
+- **Mobile:** Flutter 3 (BLoC, clean architecture), Capacitor 6, App Store & Play Store releases
+- **Backend:** Node.js, NestJS 11, Fastify 5, tRPC 11, REST / OpenAPI, Zod, BullMQ, NATS JetStream
+- **Data & DevOps:** PostgreSQL, Prisma 7, Supabase (Auth / Realtime / Storage), Redis, Docker, AWS, Railway, Vercel, GitHub Actions
+- **Payments & Quality:** Stripe Connect & Billing, Paymob, Airwallex, Sentry, Jest, Vitest, Playwright, Testcontainers
 
-## 📱 Contact Me
-- **LinkedIn:** [Zohaib Ali Mughal](https://linkedin.com/in/zohaibmughal24648)
-- **Email:** [z.mughal.24648@gmail.com](mailto:z.mughal.24648@gmail.com)
-- **GitHub:** [Zohaib24648](https://github.com/Zohaib24648)
+## 💼 Experience
+
+- **Slidey LLC** — Lead Full-Stack Software Engineer *(Nov 2024 – Present)*: architecting, building and operating multiple production B2B/B2C SaaS platforms end to end — ETG *(May 2026 – Present)*, Hyss *(Jan 2026 – Present, retainer)*, Sportefy *(Mar 2025 – Dec 2025, retainer)*.
+- **A-Safe Digital** — Event-driven CRM & quoting microservices over NATS JetStream *(Nov 2024 – Feb 2025)*: <100ms inter-service latency, 500+ tests at 95% coverage.
+- **IBA Karachi** — Teaching Assistant, Mobile Application Development: mentored 100+ students, raising class assessment averages by 30%.
+
+## 🧪 Technical Projects
+
+- **RiskSense** — loan-default MLOps pipeline (Final-Year Project, Meezan Bank): five-model ensemble with ZenML + MLflow, 92% AUC-ROC, <100ms inference via containerized Flask API.
+- **[Faculty Review](https://github.com/Zohaib24648/faculty_review)** — cross-platform course-review platform (Flutter, React, Node.js, MongoDB).
+- **Algorithmic chess engine** — min-max with alpha-beta pruning, killer-move heuristics and transposition tables; verified 1600 ELO.
+
+## 🎓 Education & Achievements
+
+- **BSc Computer Science — Institute of Business Administration (IBA), Karachi** *(2025)* · National Talent Hunt Program scholar (Top 33 / 7,290 candidates)
+- 2nd & 3rd place finishes in university-wide Kaggle ML competitions (150+ participants)
+
+---
+
+📫 **z.mughal.24648@gmail.com** · Available for contract & freelance engagements · Karachi, Pakistan (works across time zones)
