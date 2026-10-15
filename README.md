@@ -3,7 +3,7 @@
 Full-stack software engineer in Karachi. I build products end to end: typed APIs, web and
 mobile clients, payments and CI, mostly in TypeScript and Dart.
 
-**Recent work** (client code is private; case studies at [zohaibmughal.dev](https://zohaibmughal.dev))
+**Recent work** (client code is private; case studies at [career.zohaibmughal.dev](https://career.zohaibmughal.dev))
 
 - **ETG Platform** (May 2026 to now): field-service platform for an Australian group.
   25-package Turborepo, 145 tRPC routers, 212 Prisma models, 30,000+ tests.
@@ -23,9 +23,9 @@ mobile clients, payments and CI, mostly in TypeScript and Dart.
   students (Flutter, React, Node.js, MongoDB)
 - [risksense-mlops](https://github.com/Zohaib24648/risksense-mlops): final-year ZenML + MLflow
   loan-default pipeline
-- [zohaibmughal.dev](https://github.com/Zohaib24648/zohaibmughal.dev): my portfolio site
+- [career.zohaibmughal.dev](https://github.com/Zohaib24648/career.zohaibmughal.dev): my career site, generated from my CV
 
 **Stack:** TypeScript, Next.js, React, NestJS, Fastify, tRPC, Prisma, PostgreSQL, Flutter, Dart,
 Stripe, Docker, GitHub Actions
 
-[zohaibmughal.dev](https://zohaibmughal.dev) · [linkedin.com/in/zohaibmughal24648](https://linkedin.com/in/zohaibmughal24648)
+[career.zohaibmughal.dev](https://career.zohaibmughal.dev) · [linkedin.com/in/zohaibmughal24648](https://linkedin.com/in/zohaibmughal24648)
